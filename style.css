@@ -1,0 +1,88 @@
+body {
+  width: 100%;
+  height: 912.8px;
+  top: -384px;
+  left: -267px;
+  padding: 100px 310px 100px 310px;
+  gap: 0px;
+  opacity: 0px;
+
+  background: #0b1d26;
+  color: white;
+}
+.section {
+  border: 2px solid red;
+  width: 100%;
+  height: 712.8px;
+  top: 100px;
+  left: 310px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+}
+.left-section {
+  width: 50%;
+  height: 712.8px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.right-side {
+  width: 50%;
+  height: 712.8px;
+  left: 640px;
+  padding: 0px 30px 12.8px 130px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.image {
+  width: 480px;
+  height: 700px;
+  left: 130px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.create-sites {
+  width: 572.67px;
+  height: 132.39px;
+  top: 391.73px;
+  left: 30px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 36.8px;
+  text-align: left;
+}
+
+.read-more {
+  width: 126.45px;
+  height: 23px;
+  top: 555.92px;
+  left: 30px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: "Open Sans";
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 39.1px;
+  text-align: left;
+  color: #f7df1e;
+}
+
+.frontend-programmer {
+  width: 415.7px;
+  height: 145.39px;
+  top: 174.95px;
+  left: 30px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Brygada 1918;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 70.4px;
+  text-align: left;
+}
